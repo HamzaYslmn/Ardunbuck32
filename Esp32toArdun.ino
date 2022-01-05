@@ -6,8 +6,8 @@
 
 char auth[] = "Blynk";
 
-char ssid[] = "Hamza";
-char pass[] = "123456789";
+char ssid[] = "wifiadı";
+char pass[] = "şifre";
 
 const int ledPin = 16;
 const int freq = 5000;
