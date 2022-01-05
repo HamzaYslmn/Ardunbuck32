@@ -7,10 +7,10 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-char auth[] = "ApRjoPbsVcxVnq13bUfReZIlQWlsEnNW";
+char auth[] = "Blynk";
 
 char ssid[] = "Hamza";
-char pass[] = "1234567899";
+char pass[] = "123456789";
 
 const int ledPin = 16;
 const int freq = 5000;
